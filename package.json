@@ -6,8 +6,8 @@
   "homepage": "https://marta-pryiom.io/add",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /add/",
-    //  "deploy": "gh-pages -d dist"
+    "build": "parcel build src/*.html --public-url /add/"
+  
   },
   "repository": {
     "type": "git",
